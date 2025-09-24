@@ -122,5 +122,11 @@ O `app.py` é o ponto de entrada da aplicação, responsável por renderizar a i
 Você pode encontrar o código-fonte completo deste projeto no seguinte link:
 [https://github.com/Diogo2624/persistencia_poliglota.git](https://github.com/Diogo2624/persistencia_poliglota.git)
 
+## Autores
+
+[Maynard Diogo](https://github.com/Diogo2624)
+[Emanuel Messias](https://github.com/manel-mendonca)
+Thiago Dionísio
+
 
 
